@@ -1,0 +1,8 @@
+[
+  "test_api.py::TestAPI::test_create_fastfood",
+  "test_api.py::TestAPI::test_create_order",
+  "test_api.py::TestAPI::test_get_all_fastfoods",
+  "test_api.py::TestAPI::test_get_all_orders",
+  "test_api.py::TestAPI::test_get_one_fastfood",
+  "test_api.py::TestAPI::test_get_one_order"
+]
